@@ -1,6 +1,6 @@
 # Interactive-Dashboard-with-live-data-Google-Data-Studio-
 
-An Interactive Dashboard created using google data studio which allows the user to explore the Chicago crimes dataset (crimes reported to the Chicago police from 2001 to present). The data in the dashboard is updated every 12 hours. 
+An Interactive Dashboard created using google data studio/ Looker which allows the user to explore the Chicago crimes dataset (crimes reported to the Chicago police from 2001 to present). The data in the dashboard is updated every 12 hours. 
 
 ## Snapshot of the dashboard 
 
